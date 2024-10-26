@@ -32,6 +32,8 @@
 7.	Compile that file with C compiler and verify the output.
 
 # PROGRAM:
+### NAME: KOWSALYA M
+### REGISTER NO: 212222230069
 ```
 %{ 
 /* program to recognize a C program */ int COMMENT = 0; 
